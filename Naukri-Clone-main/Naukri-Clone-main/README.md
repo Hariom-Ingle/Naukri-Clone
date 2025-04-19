@@ -55,36 +55,7 @@ We can sign in login search jobs.
 * styled-components
 * react-owl-carousel3
 
-## Image of search functionality in our site 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maheshguptha49/Naukri-Clone/main/SitePictures/Screenshot%20(232).png?raw=true" alt="Naukri clone">
-</p>
-
-## Image of google login functionality in our site 
-<p align="center">
-  <img src="https://github.com/maheshguptha49/Naukri-Clone/blob/main/SitePictures/Screenshot%20(233).png?raw=true" alt="Naukri clone">
-</p>
-
-## Image of Registration functionality in our site 
-<p align="center">
-  <img src="https://github.com/maheshguptha49/Naukri-Clone/blob/main/SitePictures/Screenshot%20(235).png?raw=true" alt="Naukri clone">
-</p>
-
-## Image of Profile with profile pic functionality in our site 
-<p align="center">
-  <img src="https://github.com/maheshguptha49/Naukri-Clone/blob/main/SitePictures/Screenshot%20(236).png?raw=true" alt="Naukri clone">
-</p>
-
-## Image of Jobs list functionality in our site 
-<p align="center">
-  <img src="https://github.com/maheshguptha49/Naukri-Clone/blob/main/SitePictures/Screenshot%20(238).png?raw=true" alt="Naukri clone">
-</p>
-
-## Image of Job application functionality in our site 
-<p align="center">
-  <img src="https://github.com/maheshguptha49/Naukri-Clone/blob/main/SitePictures/Screenshot%20(237).png?raw=true" alt="Naukri clone">
-</p>
-
+  
 ## Thank you for reading the whole file :)
 
 ## Note:
